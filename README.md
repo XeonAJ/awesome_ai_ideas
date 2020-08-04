@@ -1,8 +1,9 @@
 # The "Idea" repo! 💡💡💡
 
-<details>
- 
 ## Beginner AI Project Ideas
+<details>
+<summary>Expand the huge Beginner Level Project List.</summary>
+ 
 - Iris Data
 - Loan Prediction Data
 - Bigmart Sales Data
