@@ -2,6 +2,7 @@
 
 <details>
 <summary><strong>Programming Languages:</strong></summary>
+ 
 ## Beginner AI Project Ideas
 - Iris Data
 - Loan Prediction Data
@@ -45,4 +46,5 @@
 - Fake News Detection
 - Caption generation
 - Hate tweet Detection
+
  </details>
