@@ -1,6 +1,7 @@
 # The "Idea" repo! 💡💡💡
 
 <details>
+<summary><strong>Programming Languages:</strong></summary>
 ## Beginner AI Project Ideas
 - Iris Data
 - Loan Prediction Data
