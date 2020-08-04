@@ -69,6 +69,7 @@ A collection of ideas for kick-starting your AI journey!
  - Analyzing Vocal Patterns to Determine Emotion by Andy Sun and Maisy Wieman
  - Prediction the Commercial Success of Sings based on Lyrics and other Metrics by Angela Xue, Nick Dupoux
  - From Classical to Hip-Hop: Can Machines learn Genres? by Aaron Kravitz, Eliza Lupone, Ryan Diaz
+ #### Pool in more from www.arxiv-sanity.com
  
 </details>
 
