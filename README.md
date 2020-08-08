@@ -1,5 +1,5 @@
 # The "Idea" repo! 💡💡💡
-A collection of ideas for kick-starting your AI journey! <br>
+A collection of ideas for kick-starting your AI Project journey! <br>
 
 ## Beginner AI Project Ideas
 <details>
@@ -108,18 +108,18 @@ A collection of ideas for kick-starting your AI journey! <br>
  - Analyzing Vocal Patterns to Determine Emotion by Andy Sun and Maisy Wieman
  - Prediction the Commercial Success of Sings based on Lyrics and other Metrics by Angela Xue, Nick Dupoux
  - From Classical to Hip-Hop: Can Machines learn Genres? by Aaron Kravitz, Eliza Lupone, Ryan Diaz
- #### Pool in more good ones from www.arxiv-sanity.com
  
 </details>
 
 ## 🚀 How can I contribute?
 - If you have already made an end-to-end project based on one of these listed ideas please feel free to make a PR and add links to your completed project repo. <br>
-Ex. (editing one of these) <br>
+Ex. (editing one of these topics in the above section) <br>
 ```
 - Iris Data [project](https://github.com/<PROJECT_LINK>)
 - From Classical to Hip-Hop: Can Machines learn Genres? by Aaron Kravitz, Eliza Lupone, Ryan Diaz [paper](PAPER_LINK) [project](https://github.com/<PROJECT_LINK>)
 ```
 - If in case you have built the same project but with better approach or code feel free to update the links.
-- You can also add more interesting research papers. (you can explore [arxiv](https://arxiv.org/) and [arxiv-sanity](http://www.arxiv-sanity.com/))<br>
+- Well if you find more interesting research papers you can add them to the list. (you can explore more at [arxiv](https://arxiv.org/) and [arxiv-sanity](http://www.arxiv-sanity.com/). There are many more places where research papers are published.)<br>
 
 To learn more about making a contribution to ideanote, please see our [Contribution page](CONTRIBUTING.md) <br>
+And please follow the [Code of Conduct](CODE_OF_CONDUCT.md)
