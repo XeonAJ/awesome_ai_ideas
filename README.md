@@ -1,5 +1,5 @@
 # The "Idea" repo! 💡💡💡
-A collection of ideas for kick-starting your AI journey!
+A collection of ideas for kick-starting your AI journey! <br>
 
 ## Beginner AI Project Ideas
 <details>
@@ -50,30 +50,6 @@ A collection of ideas for kick-starting your AI journey!
 
  </details>
 
-## Advanced AI Project Ideas (Research Papers)
-<details>
-<summary>Expand the huge Advanced Level Project List.</summary>
- 
- - Text to 3D Scene Generation with Rich Lexical Grounding by Angel Chang, Will Monroe, Manolis Savva, Christopher Potts and Christopher D. Manning
- - An end-to-end Deep Learning approach to MI-EEG signal Classification for Brain Computer Interfaces by Hauke Dosea Jakob S.Mollera, Helle K.lversenb Sadasivan Puthusserpadya
- - Personality Prediction based on Handwriting using ML by Nikita Lemos, Krish Shah, Rajas Rade, Dharmil Shah
- - Blowing Up the Twittersphere - Predicting the Optimal Time To Tweet by Seth Hildick Shah and Zach Ellison.
- - Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans Teicher and Alexander Martinez
- - Predicting high-risk countries for political instability and conflict by BLair Huffman, Emma Marriott and April Yu
- - Real Time Flight Path Optimization Under Constraints Using Surrogate Flutter Function by Arthur Paul-Dubois-Taine
- - Landmark Recognition Using Machine Learning by Andrew Crudge, Will Thomas and Kaiyuan Zhu
- - Strength in numbers: Modeling the impact of businesseson each other by Amir Sadeghian, Hakan Inan and Andres Noetzil
- - Automated Essay Grading by Alex Adamson, Andrew Lamb and Ralph Ma
- - Predicting influencers in a Social Network by Ruishan Liu, Yanh Xhao and Liuyu Zhou
- - Algorithmic Trading Strategy Based on Massive Data Mining by Haoming Li, Tianlun Li and Zhijun Yang
- - Analyzing Vocal Patterns to Determine Emotion by Andy Sun and Maisy Wieman
- - Prediction the Commercial Success of Sings based on Lyrics and other Metrics by Angela Xue, Nick Dupoux
- - From Classical to Hip-Hop: Can Machines learn Genres? by Aaron Kravitz, Eliza Lupone, Ryan Diaz
- #### Pool in more from www.arxiv-sanity.com
- 
-</details>
-
-
 ## Advanced AI Project Ideas
 <details>
 <summary>Expand the huge Advanced Level Project List.</summary>
@@ -112,3 +88,38 @@ A collection of ideas for kick-starting your AI journey!
 - Speed estimation, automatic detection of helmet and number plate in real time from CCTV Footage
 
 </details>
+
+## Advanced AI Project Ideas (Research Papers)
+<details>
+<summary>Expand the huge Advanced Level Project List.</summary>
+ 
+ - Text to 3D Scene Generation with Rich Lexical Grounding by Angel Chang, Will Monroe, Manolis Savva, Christopher Potts and Christopher D. Manning
+ - An end-to-end Deep Learning approach to MI-EEG signal Classification for Brain Computer Interfaces by Hauke Dosea Jakob S.Mollera, Helle K.lversenb Sadasivan Puthusserpadya
+ - Personality Prediction based on Handwriting using ML by Nikita Lemos, Krish Shah, Rajas Rade, Dharmil Shah
+ - Blowing Up the Twittersphere - Predicting the Optimal Time To Tweet by Seth Hildick Shah and Zach Ellison.
+ - Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans Teicher and Alexander Martinez
+ - Predicting high-risk countries for political instability and conflict by BLair Huffman, Emma Marriott and April Yu
+ - Real Time Flight Path Optimization Under Constraints Using Surrogate Flutter Function by Arthur Paul-Dubois-Taine
+ - Landmark Recognition Using Machine Learning by Andrew Crudge, Will Thomas and Kaiyuan Zhu
+ - Strength in numbers: Modeling the impact of businesseson each other by Amir Sadeghian, Hakan Inan and Andres Noetzil
+ - Automated Essay Grading by Alex Adamson, Andrew Lamb and Ralph Ma
+ - Predicting influencers in a Social Network by Ruishan Liu, Yanh Xhao and Liuyu Zhou
+ - Algorithmic Trading Strategy Based on Massive Data Mining by Haoming Li, Tianlun Li and Zhijun Yang
+ - Analyzing Vocal Patterns to Determine Emotion by Andy Sun and Maisy Wieman
+ - Prediction the Commercial Success of Sings based on Lyrics and other Metrics by Angela Xue, Nick Dupoux
+ - From Classical to Hip-Hop: Can Machines learn Genres? by Aaron Kravitz, Eliza Lupone, Ryan Diaz
+ #### Pool in more good ones from www.arxiv-sanity.com
+ 
+</details>
+
+## 🚀 How can I contribute?
+- If you have already made an end-to-end project based on one of these listed ideas please feel free to make a PR and add links to your completed project repo. <br>
+Ex. (editing one of these) <br>
+```
+- Iris Data [project](https://github.com/<PROJECT_LINK>)
+- From Classical to Hip-Hop: Can Machines learn Genres? by Aaron Kravitz, Eliza Lupone, Ryan Diaz [paper](PAPER_LINK) [project](https://github.com/<PROJECT_LINK>)
+```
+- If in case you have built the same project but with better approach or code feel free to update the links.
+- You can also add more interesting research papers. (you can explore [arxiv](https://arxiv.org/) and [arxiv-sanity](http://www.arxiv-sanity.com/))<br>
+
+To learn more about making a contribution to ideanote, please see our [Contribution page](CONTRIBUTING.md) <br>
