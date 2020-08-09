@@ -3,7 +3,7 @@ A collection of ideas for kick-starting your AI Project journey! <br>
 
 ## 👩‍🎓👨‍🎓 Beginner AI Project Ideas
 <details>
-<summary>Expand the huge Beginner Level Project List.</summary>
+<summary>Click to expand the huge Beginner Level Project List.</summary>
  
 - Iris Data
 - Loan Prediction Data
@@ -52,7 +52,7 @@ A collection of ideas for kick-starting your AI Project journey! <br>
 
 ## 👩‍🏫👨‍🏫 Advanced AI Project Ideas (Research Papers)
 <details>
-<summary>Expand the huge Advanced Level Project List.</summary>
+<summary>Click to expand the huge Advanced Level Project List.</summary>
  
  - Text to 3D Scene Generation with Rich Lexical Grounding by Angel Chang, Will Monroe, Manolis Savva, Christopher Potts and Christopher D. Manning
  - An end-to-end Deep Learning approach to MI-EEG signal Classification for Brain Computer Interfaces by Hauke Dosea Jakob S.Mollera, Helle K.lversenb Sadasivan Puthusserpadya
@@ -74,7 +74,7 @@ A collection of ideas for kick-starting your AI Project journey! <br>
 
 ## 👩‍🚀👨‍🚀 Advanced AI Project Ideas
 <details>
-<summary>Expand the huge Advanced Level Project List.</summary>
+<summary>Click to expand the huge Advanced Level Project List.</summary>
 
 - Facial Recognition and detecting mood of the person and suggesting song according to mood
 - Analysis of news and verified blogs to predict share market
