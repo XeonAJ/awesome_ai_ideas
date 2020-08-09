@@ -1,5 +1,5 @@
-# The "Idea" repo! 💡💡💡
-A collection of ideas for kick-starting your AI Project journey! <br>
+# The "AI Project Idea" repo! 💡💡💡
+### A collection of ideas for kick-starting your AI Project journey! <br>
 
 ## 👩‍🎓👨‍🎓 Beginner AI Project Ideas
 <details>
