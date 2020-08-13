@@ -69,6 +69,21 @@
  - Analyzing Vocal Patterns to Determine Emotion by Andy Sun and Maisy Wieman
  - Prediction the Commercial Success of Sings based on Lyrics and other Metrics by Angela Xue, Nick Dupoux
  - From Classical to Hip-Hop: Can Machines learn Genres? by Aaron Kravitz, Eliza Lupone, Ryan Diaz
+ - YouTube Videos Prediction: Will this video be popular? by Yuping Li, Kent Eng and Liqian Zhang
+ - Identifying and Predicting market reactions to information shocks in commodity markets by Eric Liu, Vedant Ahluwalia, Deepyaman Datta and Dongyang Zhang
+ - Prediction of Average and Perceived polarity in Online Journalism by Albert Chu, Kensen Shi and Catherine Wong
+ - Prediction Lecture Video Complexity by Nick Su and Ismael Menjivar
+ - Automated Identification of Artist Given unknown paintings and Quantification of artist style by nicholas dufor, Kyle Griswold and Michael Lubin
+ - Exposing commersial value in social networks matching online ocmmunities and businesses by Murali Narasimhan, Camelia Simoiu, Anthony Ward
+ - Autonomous Tagging of stack overflow posts by Mihail Eric, Ana Klimovic, Victor Zhong
+ - People Counting in Dense Crowd Images Using Sparse head detections by mamoona birkhez Shami and salman maqbool
+ - NADAQ: Natural Language Database Querying Based on Deep Learning by boyan xu and ruicha cai
+ - Predicting Course completitions for online courses by Joseph Paetz
+ - Player Behaviour and Optimal Team Compositions for online multiplayer games by Hao Yi ong, sunil deolaikar, mark peng
+ - Activity Recognition Using Physiological Data Collected from Wearable tech by Cezanne Camacho, Jennifer Li, Jeffrey Yang
+ - Predicting the success of Mobile Applications by Cameron Tuckerman
+ - Detecting heart Abnormality using ECG with CART by Ben Zhou, gasper garcia, paurakh rajbhandary
+ - Classifying complex legal documents by alex Ratner
  
 </details>
 

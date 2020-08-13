@@ -9,6 +9,9 @@ We welcome your pull requests.
 2. Do whatever changes you had intended to.
 3. Make a proper pull request.
 
+### PR Templates to follow ->
+TODO: Add PR Templates for various planned issues and stuff.
+
 ## Issues
 We use GitHub issues to track public bugs. Please ensure your description is
 clear and has sufficient instructions to be able to reproduce the issue.
