@@ -12,24 +12,21 @@ We welcome your pull requests.
 ### PR Templates to follow ->
 Only structured proper PRs are accepted!
 
-Paper links not required for beginner level idea.
-- Adding new [Ideas.](https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=add_idea.md)
+- To add a new Idea use this PR template (https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=add_idea.md)
+- To add a new [paper.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=add_paper.md)
+- To add a new [project.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=add_proj.md)
+- To add a new [feature.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=feature_request.md) 
+- To make grammer fixes [grammer.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=grammer.md)
+- To update existing [paper.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=update_paper.md)
+- To update existing [project.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=update_project.md)
 
-Only Non-paid/free sources for directly accessable paper links are acceptable.
-- Adding new [paper.](https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=add_paper.md)
-
-Projects should be end-end quick deployable on web/mobile/embedded devices. Projects scalling to cloud are not recommended for beginner level projects.
-- Adding new [project.](https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=add_proj.md)
-
-Every feature has to be discussed before sending a PR. (by opening issues and discussing about it)
-- Adding new [feature.](https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=feature_request.md) 
-
-Grammer fixes are highly appreciated.
-- Fix [grammer.](https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=grammer.md)
-
-A proper explanation on why the update is required should be mentioned.
-- Update existing [paper.](https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=update_paper.md)
-- Update existing [project.](https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=update_project.md)
+**NOTE:**
+- Paper links not required for beginner level idea.
+- Only Non-paid/free sources for directly accessable paper links are acceptable.
+- Projects should be end-end quick deployable on web/mobile/embedded devices. Projects scalling to cloud are not recommended for beginner level projects.
+- Every feature has to be discussed before sending a PR. (by opening issues and discussing about it)
+- Grammer fixes are highly appreciated.
+- A proper explanation on why the update is required should be mentioned.
 
 ## Issues
 Every feature request has to discussed by opening an issue, PR sent for request without discussion will be marked as invalid and closed.
