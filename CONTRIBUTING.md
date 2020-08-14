@@ -12,13 +12,13 @@ We welcome your pull requests.
 ### PR Templates to follow ->
 Only structured proper PRs are accepted!
 
-- To add a new Idea use this PR template (https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=add_idea.md)
-- To add a new [paper.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=add_paper.md)
-- To add a new [project.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=add_proj.md)
-- To add a new [feature.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=feature_request.md) 
-- To make grammer fixes [grammer.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=grammer.md)
-- To update existing [paper.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=update_paper.md)
-- To update existing [project.](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=update_project.md)
+- To add a new Idea [use this PR template](https://github.com/XeonAJ/awesome_ai_ideas/issues/new?template=add_idea.md)
+- To add a new paper [use this PR template](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=add_paper.md)
+- To add a new project [use this PR template](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=add_proj.md)
+- To add a new feature [use this PR template](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=feature_request.md) 
+- To make grammer fixes [use this PR template](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=grammer.md)
+- To update existing paper [use this PR template](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=update_paper.md)
+- To update existing project [use this PR template](https://github.com/XeonAJ/awesome_ai_ideas/compare?template=update_project.md)
 
 **NOTE:**
 - Paper links not required for beginner level idea.
