@@ -135,6 +135,7 @@ Ex. (editing one of these topics in the above section) <br>
 ```
 - If in case you have built the same project but with better approach or code feel free to update the links.
 - Well if you find more interesting research papers you can add them to the list. (you can explore more at [arxiv](https://arxiv.org/) and [arxiv-sanity](http://www.arxiv-sanity.com/). There are many more places where research papers are published.)<br>
+- You can also contribute to grammer fixes.
 
 To learn more about making a proper structured PR to "Awesome AI Ideas", please see our [Contribution page](CONTRIBUTING.md) <br>
 And please follow the [Code of Conduct](CODE_OF_CONDUCT.md)

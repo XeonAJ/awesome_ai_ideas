@@ -15,10 +15,10 @@ We welcome your pull requests.
 - Projects should be end-end quick deployable on web/mobile/embedded devices. Projects scalling to cloud are not recommended for beginner level projects.
 - Every feature has to be discussed before sending a PR. (by opening issues and discussing about it)
 - Grammer fixes are highly appreciated.
-- A proper explanation on why the update is required should be mentioned.
+- A proper explanation on why the update to a paper or project is required should be mentioned.
 
 ## Issues
-Every feature request has to discussed by opening an issue, PR sent for request without discussion will be marked as invalid and closed.
+Every feature request has to discussed by opening an issue, PR sent for request for an issue without discussion will be marked as invalid and closed.
 
 We use GitHub issues to track public bugs. Please ensure your description is
 clear and has sufficient instructions to be able to reproduce the issue.
