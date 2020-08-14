@@ -145,3 +145,9 @@ Ex. (editing one of these topics in the above section) <br>
 
 To learn more about making a proper structured PR to "Awesome AI Ideas", please see our [Contribution page](CONTRIBUTING.md) <br>
 And please follow the [Code of Conduct](CODE_OF_CONDUCT.md)
+
+## 😍 Other community repos about ideas!
+
+- [One Hundred Ideas for Computing](https://github.com/samsquire/ideas)
+- [Another 85+ Ideas for Computing](https://github.com/samsquire/ideas2)
+- [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas)
