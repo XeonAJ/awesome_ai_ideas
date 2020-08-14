@@ -1,6 +1,12 @@
 # The "AI Project Idea" repo! 💡💡💡
 ### A collection of ideas for kick-starting your AI Project journey! <br>
 
+Remember, you can never win a big hackathon by just implementing these ideas. You need to be creative, original and hunt for the root cause and then make a solution. Try walking in the end users shoe to understand the problems we could face over time.
+
+Here's a tip, pick a idea try modifying it or try to find a MVP which can be built using it. (MVP - Minimum Value Project)
+
+A Majority of hackathon winners create a business model in there submission. In lay mans term a project with some business value will always have a high chance of winnning than others. Try to make the project portable and end-to-end deployable when asked.
+
 ## 👩‍🎓👨‍🎓 Beginner AI Project Ideas
 <details>
 <summary>Click to expand the huge Beginner Level Project List.</summary>
