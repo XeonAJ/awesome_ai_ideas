@@ -9,10 +9,6 @@ We welcome your pull requests.
 2. Do whatever changes you had intended to.
 3. Make a proper pull request.
 
-### PR Templates to follow ->
-Only structured proper PRs are accepted!
-
-
 **NOTE:**
 - Paper links not required for beginner level idea.
 - Only Non-paid/free sources for directly accessable paper links are acceptable.
