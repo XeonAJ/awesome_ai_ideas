@@ -10,9 +10,13 @@ We welcome your pull requests.
 3. Make a proper pull request.
 
 ### PR Templates to follow ->
-TODO: Add PR Templates for various planned issues and stuff.
+Only structured proper PRs are accepted!
+
+Adding new [Ideas with paper.](add_idea.md)
 
 ## Issues
+Every feature request has to discussed by opening an issue, PR sent for request without discussion will be marked as invalid and closed.
+
 We use GitHub issues to track public bugs. Please ensure your description is
 clear and has sufficient instructions to be able to reproduce the issue.
 
