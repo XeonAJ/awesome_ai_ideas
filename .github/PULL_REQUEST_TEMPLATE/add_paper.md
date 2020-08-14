@@ -7,5 +7,5 @@
 **A quick example of MVP which can be derived from the Paper:**
 
 
-**PDF Link to the paper:**
+**PDF Link to the paper:** 
 
